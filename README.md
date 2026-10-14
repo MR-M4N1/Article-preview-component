@@ -25,9 +25,9 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 - HERE YOU CAN WATCH THE  OVERVIEWS :
 
-![](../assets/images/overView/htmlOverview.JPG)
-![](../assets/images/overView/cssOverview.JPG)
-![](../assets/images/overView/javaOverview.JPG)
+![](./assets/images/overView/htmlOverview.JPG)
+![](./assets/images/overView/cssOverview.JPG)
+![](./assets/images/overView/javaOverview.JPG)
 
 
 ### The challenge
@@ -39,11 +39,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](../assets/images/screenShot/desctopScreen.JPG)
-![](../assets/images/screenShot/desctopScreen2.JPG)
-![](../assets/images/screenShot/laptopScreenShot.jpg)
-![](../assets/images/screenShot/mobileactiveScreenshot.jpg)
-![](../assets/images/screenShot/tabletScreenShot.jpg)
+![](./assets/images/screenShot/desctopScreen.JPG)
+![](./assets/images/screenShot/desctopScreen2.JPG)
+![](./assets/images/screenShot/laptopScreenShot.jpg)
+![](./assets/images/screenShot/mobileactiveScreenshot.jpg)
+![](./assets/images/screenShot/tabletScreenShot.jpg)
 
 
 ### Links
